@@ -1,7 +1,17 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+require 'csv'
+
+Team.delete_all
+
+CSV.foreach(Rails.root.join('db/team_data.csv'), headers: true) do |row|
+  
+  Team.create({
+    name: row[0],
+    league: row[1],
+    defense: row[2],
+    midfield: row[3],
+    attack: row[4],
+    overall: row[5],
+    logo: row[6],
+    rating: row[7]
+  })
+end

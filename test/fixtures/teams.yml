@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  league: MyString
+  defence: 1
+  midfield: 1
+  attack: 1
+  overall: 1
+  logo: MyString
+  rating: 1.5
+
+two:
+  name: MyString
+  league: MyString
+  defence: 1
+  midfield: 1
+  attack: 1
+  overall: 1
+  logo: MyString
+  rating: 1.5
