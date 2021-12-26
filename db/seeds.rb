@@ -6,7 +6,7 @@ CSV.foreach(Rails.root.join('db/team_data.csv'), headers: true) do |row|
   
   Team.create({
     name: row[0],
-    league: row[1],
+    league_id: League.find_or_create_by(name: row[1]),
     defense: row[2],
     midfield: row[3],
     attack: row[4],
