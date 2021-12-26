@@ -1,0 +1,684 @@
+,Name,League,Defense,Midfield,Attack,Overall,Logo URL,Team_Rating
+0,Liverpool,Premier League,80,83,86,85,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/9.png,5.0
+1,Manchester City,Premier League,83,86,85,85,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/10.png,5.0
+2,Real Madrid,LaLiga Santander,84,86,84,85,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/243.png,5.0
+3,FC Bayern München,Bundesliga,82,85,92,84,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/21.png,5.0
+4,Paris Saint-Germain,Ligue 1 Uber Eats,82,82,87,84,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/73.png,5.0
+5,Juventus,Serie A TIM,83,81,87,83,https://fifastatic.fifaindex.com/FIFA19/images/crest/5/light/45.png,5.0
+6,Atlético de Madrid,LaLiga Santander,83,82,85,83,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/240.png,5.0
+7,FC Barcelona,LaLiga Santander,81,82,84,83,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/241.png,5.0
+8,Tottenham Hotspur,Premier League,81,82,89,82,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/18.png,4.5
+9,Manchester United,Premier League,82,82,83,82,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/11.png,4.5
+10,Inter,Serie A TIM,83,81,83,82,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/44.png,4.5
+11,Chelsea,Premier League,82,84,82,82,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/5.png,4.5
+12,Borussia Dortmund,Bundesliga,81,81,87,81,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/22.png,4.5
+13,Sevilla FC,LaLiga Santander,82,81,80,81,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/481.png,4.5
+14,Arsenal,Premier League,79,79,83,80,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1.png,4.5
+15,Napoli,Serie A TIM,80,80,82,80,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/48.png,4.5
+16,Lazio,Serie A TIM,79,80,82,80,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/46.png,4.5
+17,Villarreal CF,LaLiga Santander,79,79,82,80,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/483.png,4.5
+18,Leicester City,Premier League,79,81,80,80,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/95.png,4.5
+19,RB Leipzig,Bundesliga,80,81,78,80,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112172.png,4.5
+20,Milan,Serie A TIM,80,78,84,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/47.png,4.5
+21,Atalanta,Serie A TIM,78,79,82,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/39.png,4.5
+22,Real Sociedad,LaLiga Santander,77,81,81,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/457.png,4.5
+23,Everton,Premier League,80,79,81,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/7.png,4.5
+24,Athletic Club,LaLiga Santander,79,78,80,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/448.png,4.5
+25,Borussia Mönchengladbach,Bundesliga,80,79,78,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/23.png,4.5
+26,Bayer 04 Leverkusen,Bundesliga,78,78,78,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/32.png,4.5
+27,Wolverhampton Wanderers,Premier League,78,81,77,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110.png,4.5
+28,SL Benfica,Liga NOS,78,79,77,79,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/234.png,4.5
+29,Ajax,Eredivisie,76,77,80,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/245.png,4.0
+30,Real Betis Balompié,LaLiga Santander,78,79,79,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/449.png,4.0
+31,FC Porto,Liga NOS,77,79,79,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/236.png,4.0
+32,Olympique Lyonnais,Ligue 1 Uber Eats,77,79,79,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/66.png,4.0
+33,West Ham United,Premier League,77,79,79,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/19.png,4.0
+34,AS Monaco,Ligue 1 Uber Eats,77,77,79,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/69.png,4.0
+35,Roma,Serie A TIM,76,77,79,78,https://fifastatic.fifaindex.com/FIFA20/images/crest/5/light/52.png,4.0
+36,Sporting CP,Liga NOS,77,81,78,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/237.png,4.0
+37,LOSC Lille,Ligue 1 Uber Eats,78,78,78,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/65.png,4.0
+38,VfL Wolfsburg,Bundesliga,77,78,78,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/175.png,4.0
+39,Granada CF,LaLiga Santander,77,78,77,78,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110832.png,4.0
+40,Eintracht Frankfurt,Bundesliga,75,77,79,77,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1824.png,4.0
+41,Getafe CF,LaLiga Santander,77,78,77,77,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1860.png,4.0
+42,Valencia CF,LaLiga Santander,77,78,77,77,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/461.png,4.0
+43,Aston Villa,Premier League,77,77,77,77,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/2.png,4.0
+44,Olympique de Marseille,Ligue 1 Uber Eats,76,76,77,77,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/219.png,4.0
+45,PSV,Eredivisie,77,76,79,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/247.png,4.0
+46,Levante UD,LaLiga Santander,75,76,79,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1853.png,4.0
+47,Fiorentina,Serie A TIM,75,76,78,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110374.png,4.0
+48,Leeds United,Premier League,75,76,78,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/8.png,4.0
+49,Southampton,Premier League,76,77,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/17.png,4.0
+50,Hertha Berlin,Bundesliga,75,76,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/166.png,4.0
+51,Crystal Palace,Premier League,75,75,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1799.png,4.0
+52,Flamengo,Libertadores,75,75,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1043.png,4.0
+53,Newcastle United,Premier League,74,75,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/13.png,4.0
+54,D. Alavés,LaLiga Santander,76,74,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/463.png,4.0
+55,OGC Nice,Ligue 1 Uber Eats,73,74,77,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/72.png,4.0
+56,CA Osasuna,LaLiga Santander,75,77,76,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/479.png,4.0
+57,River Plate,Libertadores,75,76,76,76,https://fifastatic.fifaindex.com/FIFA19/images/crest/5/light/1876.png,4.0
+58,Olympiacos CFP,Rest of World,72,76,76,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/280.png,4.0
+59,SD Eibar,LaLiga Santander,74,75,76,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/467.png,4.0
+60,Torino,Serie A TIM,77,74,76,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/54.png,4.0
+61,Boca Juniors,Libertadores,75,73,76,76,https://fifastatic.fifaindex.com/FIFA18/images/crest/5/light/1877.png,4.0
+62,TSG Hoffenheim,Bundesliga,76,77,75,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/10029.png,4.0
+63,Burnley,Premier League,77,76,75,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1796.png,4.0
+64,Stade Rennais FC,Ligue 1 Uber Eats,76,76,75,76,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/74.png,4.0
+65,Atlético Mineiro,Liga do Brasil,75,75,81,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1035.png,4.0
+66,Montpellier Hérault SC,Ligue 1 Uber Eats,73,76,80,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/70.png,4.0
+67,RC Celta,LaLiga Santander,75,75,80,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/450.png,4.0
+68,Sassuolo,Serie A TIM,72,77,79,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111974.png,4.0
+69,São Paulo,Libertadores,76,75,78,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/598.png,4.0
+70,Tigres de la UANL,LIGA BBVA MX,73,75,77,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1970.png,4.0
+71,Galatasaray SK,Süper Lig,74,73,77,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/325.png,4.0
+72,R. Valladolid CF,LaLiga Santander,74,76,76,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/462.png,4.0
+73,Sampdoria,Serie A TIM,73,75,76,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1837.png,4.0
+74,Udinese,Serie A TIM,72,75,76,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/55.png,4.0
+75,Feyenoord,Eredivisie,75,74,76,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/246.png,4.0
+76,Cagliari,Serie A TIM,73,73,76,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1842.png,4.0
+77,Brighton & Hove Albion,Premier League,76,76,75,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1808.png,4.0
+78,RCD Espanyol,LaLiga SmartBank,74,76,75,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/452.png,4.0
+79,Club Brugge KV,1A Pro League,74,76,75,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/231.png,4.0
+80,SK Slavia Praha,Rest of World,75,75,75,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/266.png,4.0
+81,Angers SCO,Ligue 1 Uber Eats,74,75,75,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1530.png,4.0
+82,SC Braga,Liga NOS,75,76,74,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1896.png,4.0
+83,Fenerbahçe SK,Süper Lig,75,76,74,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/326.png,4.0
+84,Spartak Moscow,Rest of World,74,76,74,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100767.png,4.0
+85,Fulham,Premier League,74,75,74,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/144.png,4.0
+86,Shakhtar Donetsk,Rest of World,73,75,71,75,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101059.png,4.0
+87,Cruz Azul,LIGA BBVA MX,73,73,77,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1878.png,3.5
+88,Hellas Verona,Serie A TIM,73,75,76,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/206.png,3.5
+89,Rayados de Monterrey,LIGA BBVA MX,74,75,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1032.png,3.5
+90,Bologna,Serie A TIM,73,75,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/189.png,3.5
+91,Sport-Club Freiburg,Bundesliga,73,75,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/25.png,3.5
+92,Rangers FC,Scottish Prem,75,74,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/86.png,3.5
+93,Beşiktaş JK,Süper Lig,73,74,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/327.png,3.5
+94,RC Strasbourg Alsace,Ligue 1 Uber Eats,74,73,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/76.png,3.5
+95,Grêmio,Liga do Brasil,75,72,75,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1629.png,3.5
+96,Palmeiras,Libertadores,74,76,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/383.png,3.5
+97,İstanbul Başakşehir FK,Süper Lig,73,75,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101014.png,3.5
+98,FC Schalke 04,Bundesliga,72,75,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/34.png,3.5
+99,AZ,Eredivisie,73,74,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1906.png,3.5
+100,Watford,EFL Championship,73,74,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1795.png,3.5
+101,Parma,Serie A TIM,73,74,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/50.png,3.5
+102,1. FC Köln,Bundesliga,72,74,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/31.png,3.5
+103,PFC CSKA Moscow,Rest of World,73,73,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/315.png,3.5
+104,FC Girondins de Bordeaux,Ligue 1 Uber Eats,72,73,74,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/59.png,3.5
+105,SV Werder Bremen,Bundesliga,75,74,73,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/38.png,3.5
+106,FC Augsburg,Bundesliga,74,74,73,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100409.png,3.5
+107,Lokomotiv Moskva,Rest of World,73,73,73,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100765.png,3.5
+108,AFC Bournemouth,EFL Championship,71,75,72,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1943.png,3.5
+109,Genoa,Serie A TIM,74,74,72,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110556.png,3.5
+110,Internacional,Liga do Brasil,75,75,71,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1048.png,3.5
+111,Dynamo Kyiv,Rest of World,73,74,70,74,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101047.png,3.5
+112,Norwich City,EFL Championship,71,73,76,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1792.png,3.5
+113,Cádiz CF,LaLiga Santander,72,73,75,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1968.png,3.5
+114,Celtic,Scottish Prem,72,73,75,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/78.png,3.5
+115,1. FC Union Berlin,Bundesliga,73,72,75,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1831.png,3.5
+116,FC Red Bull Salzburg,Ö. Bundesliga,73,72,75,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/191.png,3.5
+117,KRC Genk,1A Pro League,73,71,75,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/673.png,3.5
+118,AS Saint-Étienne,Ligue 1 Uber Eats,73,74,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1819.png,3.5
+119,Dinamo Zagreb,Rest of World,72,74,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/211.png,3.5
+120,West Bromwich Albion,Premier League,72,74,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/109.png,3.5
+121,Vélez Sarsfield,LPF,73,73,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101088.png,3.5
+122,Club América,LIGA BBVA MX,73,73,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1879.png,3.5
+123,Club León,LIGA BBVA MX,72,73,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110781.png,3.5
+124,VfB Stuttgart,Bundesliga,72,73,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/36.png,3.5
+125,Santos,Liga do Brasil,73,72,74,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1053.png,3.5
+126,Al Hilal,MBS Pro League,72,74,73,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/605.png,3.5
+127,Stade de Reims,Ligue 1 Uber Eats,74,73,73,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/379.png,3.5
+128,SD Huesca,LaLiga Santander,73,73,73,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110839.png,3.5
+129,PAOK,Rest of World,72,73,73,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/393.png,3.5
+130,Sparta Praha,Rest of World,70,73,73,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/267.png,3.5
+131,RC Lens,Ligue 1 Uber Eats,73,75,72,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/64.png,3.5
+132,1. FSV Mainz 05,Bundesliga,73,73,72,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/169.png,3.5
+133,Elche CF,LaLiga Santander,72,73,72,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/468.png,3.5
+134,RCD Mallorca,LaLiga SmartBank,72,73,72,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/453.png,3.5
+135,Stade Brestois 29,Ligue 1 Uber Eats,72,73,72,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/378.png,3.5
+136,Corinthians,Sudamericana,74,72,72,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1041.png,3.5
+137,FC Nantes,Ligue 1 Uber Eats,74,74,71,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/71.png,3.5
+138,Racing Club,LPF,73,74,71,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101085.png,3.5
+139,Sheffield United,Premier League,73,74,71,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1794.png,3.5
+140,Nîmes Olympique,Ligue 1 Uber Eats,73,73,71,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/224.png,3.5
+141,Club Libertad,Libertadores,72,72,69,73,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111008.png,3.5
+142,Royal Antwerp FC,1A Pro League,73,72,75,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/230.png,3.5
+143,Ceará Sporting Club,Liga do Brasil,73,71,75,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111059.png,3.5
+144,Trabzonspor,Süper Lig,70,73,74,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/436.png,3.5
+145,Brentford,EFL Championship,71,72,74,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1925.png,3.5
+146,UD Almería,LaLiga SmartBank,71,72,74,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1861.png,3.5
+147,Club Athletico Paranaense,Liga do Brasil,72,71,74,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1039.png,3.5
+148,Defensa y Justicia,LPF,71,71,74,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111710.png,3.5
+149,Vitória Guimarães,Liga NOS,71,71,74,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1887.png,3.5
+150,Club Atlético Independiente,LPF,71,74,73,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110093.png,3.5
+151,KAA Gent,1A Pro League,70,73,73,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/674.png,3.5
+152,AEK Athens,Rest of World,70,73,73,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/278.png,3.5
+153,RSC Anderlecht,1A Pro League,71,72,73,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/229.png,3.5
+154,San Lorenzo de Almagro,LPF,71,71,73,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1013.png,3.5
+155,RB Bragantino,Sudamericana,74,73,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112472.png,3.5
+156,Viktoria Plzeň,Rest of World,71,73,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110468.png,3.5
+157,BSC Young Boys,RSL,72,72,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/900.png,3.5
+158,DSC Arminia Bielefeld,Bundesliga,71,72,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/159.png,3.5
+159,CD Leganés,LaLiga SmartBank,73,71,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100888.png,3.5
+160,Benevento,Serie A TIM,72,71,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112026.png,3.5
+161,FC København,3F Superliga,68,71,72,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/819.png,3.5
+162,Standard de Liège,1A Pro League,71,72,71,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/232.png,3.5
+163,Fluminense,Liga do Brasil,72,73,70,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/567.png,3.5
+164,FC Metz,Ligue 1 Uber Eats,73,70,70,72,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/68.png,3.5
+165,Club Deportivo Guadalajara,LIGA BBVA MX,68,72,75,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1880.png,3.5
+166,Inter Miami CF,MLS,70,71,74,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112893.png,3.5
+167,Minnesota United FC,MLS,70,70,74,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111138.png,3.5
+168,Club Universidad Nacional,LIGA BBVA MX,70,70,74,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1881.png,3.5
+169,Swansea City,EFL Championship,72,71,73,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1960.png,3.5
+170,Dijon FCO,Ligue 1 Uber Eats,70,71,73,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110569.png,3.5
+171,Hamburger SV,Bundesliga 2,71,70,73,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/28.png,3.5
+172,Çaykur Rizespor,Süper Lig,70,69,73,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101037.png,3.5
+173,Girona FC,LaLiga SmartBank,68,69,73,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110062.png,3.5
+174,Fatih Karagümrük SK,Süper Lig,68,73,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111117.png,3.5
+175,Seattle Sounders FC,MLS,67,73,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111144.png,3.5
+176,Columbus Crew SC,MLS,70,72,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/687.png,3.5
+177,FC Basel 1893,RSL,71,71,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/896.png,3.5
+178,Portland Timbers,MLS,69,71,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111140.png,3.5
+179,Club Atlético Talleres,LPF,72,69,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112670.png,3.5
+180,Universidad Católica,Libertadores,70,68,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110975.png,3.5
+181,Crotone,Serie A TIM,70,68,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110734.png,3.5
+182,AC Monza,Rest of World,68,67,72,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111811.png,3.5
+183,FC Paços de Ferreira,Liga NOS,72,73,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1892.png,3.5
+184,Reading,EFL Championship,71,72,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1793.png,3.5
+185,Sporting Charleroi,1A Pro League,71,72,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/670.png,3.5
+186,FC Utrecht,Eredivisie,70,72,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1903.png,3.5
+187,Demir Grup Sivasspor,Süper Lig,69,72,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101041.png,3.5
+188,Alanyaspor,Süper Lig,72,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113142.png,3.5
+189,Argentinos Juniors,LPF,72,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111019.png,3.5
+190,Rio Ave FC,Liga NOS,72,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/744.png,3.5
+191,Fortuna Düsseldorf,Bundesliga 2,70,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110636.png,3.5
+192,Colón de Santa Fe,LPF,70,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110406.png,3.5
+193,FC Lorient,Ligue 1 Uber Eats,70,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/217.png,3.5
+194,Blackburn Rovers,EFL Championship,70,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/3.png,3.5
+195,Cardiff City,EFL Championship,69,71,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1961.png,3.5
+196,LASK,Ö. Bundesliga,71,70,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/252.png,3.5
+197,R. Sporting,LaLiga SmartBank,70,70,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/459.png,3.5
+198,Nottingham Forest,EFL Championship,70,70,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/14.png,3.5
+199,Panathinaikos FC,Rest of World,69,70,71,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1884.png,3.5
+200,Atlético Clube Goianiense,Liga do Brasil,73,71,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112119.png,3.5
+201,Fortaleza,Liga do Brasil,72,71,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111052.png,3.5
+202,Club Atlas,LIGA BBVA MX,69,70,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101114.png,3.5
+203,Club Olimpia,Libertadores,69,70,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101108.png,3.5
+204,Santos Laguna,LIGA BBVA MX,68,70,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110144.png,3.5
+205,Pachuca,LIGA BBVA MX,72,69,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110147.png,3.5
+206,Newell's Old Boys,LPF,71,69,70,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110396.png,3.5
+207,Bahia,Liga do Brasil,71,71,69,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1598.png,3.5
+208,Rayo Vallecano,LaLiga SmartBank,70,71,69,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/480.png,3.5
+209,Orlando City Soccer Club,MLS,67,71,69,71,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112606.png,3.5
+210,Al Nassr,MBS Pro League,69,68,78,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112139.png,3.0
+211,Al Ahli,MBS Pro League,67,70,76,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112387.png,3.0
+212,Al Shabab,MBS Pro League,67,72,75,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111674.png,3.0
+213,Club Atlético Lanús,LPF,69,71,74,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110395.png,3.0
+214,Club Nacional de Football,Libertadores,68,70,74,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111325.png,3.0
+215,Antalyaspor,Süper Lig,68,70,74,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/741.png,3.0
+216,Guangzhou Evergrande Taobao FC,CSL,68,70,73,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111839.png,3.0
+217,Kawasaki Frontale,Meiji Yasuda J1,70,69,73,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111730.png,3.0
+218,Club Tijuana,LIGA BBVA MX,68,68,73,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111678.png,3.0
+219,Kasimpaşa SK,Süper Lig,70,70,72,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111339.png,3.0
+220,Rosario Central,LPF,67,70,72,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110580.png,3.0
+221,SK Rapid Wien,Ö. Bundesliga,70,68,72,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/254.png,3.0
+222,Jeonbuk Hyundai Motors,K League 1,68,71,71,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1477.png,3.0
+223,New York City FC,MLS,70,69,71,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112828.png,3.0
+224,Kayserispor,Süper Lig,68,71,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101020.png,3.0
+225,Hannover 96,Bundesliga 2,71,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/485.png,3.0
+226,VfL Bochum 1848,Bundesliga 2,71,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/160.png,3.0
+227,Middlesbrough,EFL Championship,71,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/12.png,3.0
+228,Gaziantep FK,Süper Lig,70,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110776.png,3.0
+229,Deportivo Toluca,LIGA BBVA MX,70,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1882.png,3.0
+230,Stoke City,EFL Championship,70,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1806.png,3.0
+231,Philadelphia Union,MLS,69,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112134.png,3.0
+232,Coritiba,Liga do Brasil,69,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111044.png,3.0
+233,Boavista FC,Liga NOS,69,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1898.png,3.0
+234,La Spezia,Serie A TIM,67,70,70,70,https://fifastatic.fifaindex.com/FIFA20/images/crest/5/light/110741.png,3.0
+235,Junior FC,Libertadores,67,70,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101101.png,3.0
+236,Santa Clara,Liga NOS,70,69,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1438.png,3.0
+237,Lecce,Rest of World,69,69,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/347.png,3.0
+238,Bristol City,EFL Championship,70,68,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1919.png,3.0
+239,Millwall,EFL Championship,70,67,70,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/97.png,3.0
+240,FC Midtjylland,3F Superliga,70,72,69,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1516.png,3.0
+241,Estudiantes de La Plata,LPF,69,72,69,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101083.png,3.0
+242,Chievo Verona,Rest of World,69,71,69,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/192.png,3.0
+243,Birmingham City,EFL Championship,71,70,69,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/88.png,3.0
+244,Sheffield Wednesday,EFL Championship,69,70,69,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1807.png,3.0
+245,Toronto FC,MLS,69,72,68,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111651.png,3.0
+246,Vitesse,Eredivisie,71,70,68,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1909.png,3.0
+247,Derby County,EFL Championship,69,70,68,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/91.png,3.0
+248,MKE Ankaragücü,Süper Lig,70,69,68,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101007.png,3.0
+249,D.C. United,MLS,66,68,67,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/688.png,3.0
+250,Preston North End,EFL Championship,69,71,66,70,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1801.png,3.0
+251,LA Galaxy,MLS,67,70,77,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/697.png,3.0
+252,Kashima Antlers,Meiji Yasuda J1,66,68,74,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101147.png,3.0
+253,Beijing Sinobo Guoan FC,CSL,67,71,73,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111768.png,3.0
+254,Oud-Heverlee Leuven,1A Pro League,69,70,73,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100087.png,3.0
+255,LAFC,MLS,68,69,73,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112996.png,3.0
+256,Mazatlán Fútbol Club,LIGA BBVA MX,65,67,73,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114899.png,3.0
+257,SC Heerenveen,Eredivisie,67,71,72,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1913.png,3.0
+258,Shanghai Shenhua,CSL,64,70,72,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110955.png,3.0
+259,Queens Park Rangers,EFL Championship,69,69,72,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15.png,3.0
+260,Atlanta United FC,MLS,68,69,72,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112885.png,3.0
+261,SPAL,Rest of World,68,68,72,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112791.png,3.0
+262,Hatayspor,Süper Lig,68,70,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101028.png,3.0
+263,R. Oviedo,LaLiga SmartBank,69,69,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110827.png,3.0
+264,Moreirense FC,Liga NOS,69,69,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1900.png,3.0
+265,Fútbol Club Juárez,LIGA BBVA MX,68,69,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113134.png,3.0
+266,SV Darmstadt 98,Bundesliga 2,68,69,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110502.png,3.0
+267,Gençlerbirliği SK,Süper Lig,68,69,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101025.png,3.0
+268,1. FC Heidenheim 1846,Bundesliga 2,71,68,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111235.png,3.0
+269,Club Atlético de San Luis,LIGA BBVA MX,67,68,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112678.png,3.0
+270,Sporting Kansas City,MLS,69,67,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/696.png,3.0
+271,Kaizer Chiefs,Rest of World,67,66,71,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110929.png,3.0
+272,Holstein Kiel,Bundesliga 2,68,73,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/576.png,3.0
+273,Futebol Clube de Famalicão,Liga NOS,69,71,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112809.png,3.0
+274,Colorado Rapids,MLS,68,71,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/694.png,3.0
+275,Al Ittihad,MBS Pro League,67,71,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/607.png,3.0
+276,Vissel Kobe,Meiji Yasuda J1,68,70,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101146.png,3.0
+277,Göztepe SK,Süper Lig,68,70,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101026.png,3.0
+278,Goiás,Liga do Brasil,69,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111042.png,3.0
+279,SC Paderborn 07,Bundesliga 2,69,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/10030.png,3.0
+280,KAS Eupen,1A Pro League,69,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/2013.png,3.0
+281,UD Las Palmas,LaLiga SmartBank,69,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/472.png,3.0
+282,SpVgg Greuther Fürth,Bundesliga 2,69,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/165.png,3.0
+283,Atlético Tucumán,LPF,68,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111708.png,3.0
+284,Empoli,Rest of World,68,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1746.png,3.0
+285,Molde FK,Eliteserien,68,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/417.png,3.0
+286,CD Tenerife,LaLiga SmartBank,68,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/260.png,3.0
+287,AJ Auxerre,Ligue 2 BKT,68,69,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/57.png,3.0
+288,Yeni Malatyaspor,Süper Lig,70,68,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113259.png,3.0
+289,Unión de Santa Fe,LPF,68,68,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111716.png,3.0
+290,Willem II,Eredivisie,68,68,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1907.png,3.0
+291,CD Palestino,Sudamericana,68,67,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111328.png,3.0
+292,Orlando Pirates,Rest of World,68,67,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110930.png,3.0
+293,Urawa Red Diamonds,Meiji Yasuda J1,70,65,70,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111575.png,3.0
+294,Malmö FF,Sweden Allsvenskan (1),69,70,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/320.png,3.0
+295,Málaga CF,LaLiga SmartBank,68,70,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/573.png,3.0
+296,Gil Vicente FC,Liga NOS,70,69,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1888.png,3.0
+297,Ulsan Hyundai Horang-i,K League 1,70,69,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1473.png,3.0
+298,Legia Warszawa,PKO Ekstraklasa,66,69,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1871.png,3.0
+299,LDU Quito,Libertadores,67,68,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110986.png,3.0
+300,Brescia,Rest of World,69,67,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/190.png,3.0
+301,Marítimo,Liga NOS,68,67,69,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1893.png,3.0
+302,Yokohama F・Marinos,Meiji Yasuda J1,69,70,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101151.png,3.0
+303,KV Kortrijk,1A Pro League,69,70,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100081.png,3.0
+304,1. FC Nürnberg,Bundesliga 2,68,70,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/171.png,3.0
+305,Portimonense SC,Liga NOS,67,70,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/10031.png,3.0
+306,ESTAC Troyes,Ligue 2 BKT,71,69,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/294.png,3.0
+307,FC CFR 1907 Cluj,Liga I,70,69,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114385.png,3.0
+308,Huddersfield Town,EFL Championship,69,69,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1939.png,3.0
+309,KV Mechelen,1A Pro League,68,69,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110724.png,3.0
+310,Konyaspor,Süper Lig,70,68,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101033.png,3.0
+311,Belenenses,Liga NOS,70,68,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1889.png,3.0
+312,Luton Town,EFL Championship,69,68,68,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1923.png,3.0
+313,FC Dallas,MLS,68,70,67,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/695.png,3.0
+314,Botafogo,Liga do Brasil,71,69,67,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/517.png,3.0
+315,SC Farense,Liga NOS,69,69,67,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/489.png,3.0
+316,Toulouse FC,Ligue 2 BKT,70,68,67,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1809.png,3.0
+317,Barcelona Sporting Club,Libertadores,70,68,66,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110981.png,3.0
+318,Banfield,LPF,65,70,65,69,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110404.png,3.0
+319,Al Ain FC,Rest of World,66,67,75,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111701.png,2.5
+320,Chicago Fire Soccer Club,MLS,66,70,72,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/693.png,2.5
+321,New England Revolution,MLS,66,67,72,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/691.png,2.5
+322,FC Erzgebirge Aue,Bundesliga 2,67,69,71,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/506.png,2.5
+323,Vancouver Whitecaps FC,MLS,66,69,71,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101112.png,2.5
+324,SV Zulte Waregem,1A Pro League,66,69,71,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15005.png,2.5
+325,FC Cincinnati,MLS,67,68,71,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113149.png,2.5
+326,SD Ponferradina,LaLiga SmartBank,67,68,71,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/2023.png,2.5
+327,BB Erzurumspor,Süper Lig,66,67,71,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/749.png,2.5
+328,San Jose Earthquakes,MLS,66,70,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111928.png,2.5
+329,K Beerschot VA,1A Pro League,68,69,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/675.png,2.5
+330,FC St. Pauli,Bundesliga 2,68,68,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110329.png,2.5
+331,IFK Göteborg,Sweden Allsvenskan (1),67,68,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/319.png,2.5
+332,Club Cerro Porteño,Libertadores,64,68,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112716.png,2.5
+333,R. Zaragoza,LaLiga SmartBank,69,67,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/244.png,2.5
+334,F.C. Tokyo,Meiji Yasuda J1,68,67,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101150.png,2.5
+335,FCSB,Liga I,68,67,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100761.png,2.5
+336,Sint-Truidense VV,1A Pro League,68,67,70,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/680.png,2.5
+337,Nashville SC,MLS,67,70,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114162.png,2.5
+338,KV Oostende,1A Pro League,68,69,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/682.png,2.5
+339,Impact Montréal,MLS,67,69,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111139.png,2.5
+340,Lech Poznań,PKO Ekstraklasa,67,69,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/873.png,2.5
+341,Brøndby IF,3F Superliga,67,69,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/269.png,2.5
+342,Gimnasia y Esgrima La Plata,LPF,68,68,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101084.png,2.5
+343,CD Nacional,Liga NOS,67,68,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1891.png,2.5
+344,New York Red Bulls,MLS,67,68,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/689.png,2.5
+345,CD Tondela,Liga NOS,70,67,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112516.png,2.5
+346,SV Sandhausen,Bundesliga 2,68,67,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110178.png,2.5
+347,Universitatea Craiova,Liga I,68,67,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/308.png,2.5
+348,Royal Excel Mouscron,1A Pro League,67,67,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111560.png,2.5
+349,FC Luzern,RSL,67,67,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/897.png,2.5
+350,SM Caen,Ligue 2 BKT,67,67,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/210.png,2.5
+351,Sanfrecce Hiroshima,Meiji Yasuda J1,69,66,69,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113157.png,2.5
+352,Shanghai SIPG FC,CSL,65,72,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112540.png,2.5
+353,En Avant Guingamp,Ligue 2 BKT,69,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/62.png,2.5
+354,Karlsruher SC,Bundesliga 2,68,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1832.png,2.5
+355,RZ Pellets Wolfsberger AC,Ö. Bundesliga,67,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111822.png,2.5
+356,Rosenborg BK,Eliteserien,67,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/298.png,2.5
+357,CD Castellón,LaLiga SmartBank,66,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100852.png,2.5
+358,Puebla,LIGA BBVA MX,64,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110152.png,2.5
+359,Club Atlético Peñarol,Sudamericana,64,69,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101110.png,2.5
+360,Gamba Osaka,Meiji Yasuda J1,70,68,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112093.png,2.5
+361,Barnsley,EFL Championship,69,68,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1932.png,2.5
+362,Club Atlético Huracán,LPF,68,68,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111711.png,2.5
+363,Nagoya Grampus,Meiji Yasuda J1,67,68,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112092.png,2.5
+364,Rotherham United,EFL Championship,67,68,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1797.png,2.5
+365,Club Necaxa,LIGA BBVA MX,68,67,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101121.png,2.5
+366,Unión La Calera,Libertadores,67,67,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112535.png,2.5
+367,FC Twente,Eredivisie,67,66,68,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1908.png,2.5
+368,Coventry City,EFL Championship,69,70,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1800.png,2.5
+369,Atlético Nacional,Libertadores,67,70,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101100.png,2.5
+370,SK Sturm Graz,Ö. Bundesliga,67,70,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/209.png,2.5
+371,Independiente del Valle,Libertadores,65,70,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112908.png,2.5
+372,Cerezo Osaka,Meiji Yasuda J1,67,69,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101148.png,2.5
+373,Cercle Brugge,1A Pro League,67,69,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1750.png,2.5
+374,Sporting Cristal,Libertadores,68,68,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111013.png,2.5
+375,Real Salt Lake,MLS,67,68,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111065.png,2.5
+376,CF Fuenlabrada,LaLiga SmartBank,67,68,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110065.png,2.5
+377,Deportes Tolima,Sudamericana,66,68,67,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111722.png,2.5
+378,Aarhus AGF,3F Superliga,67,70,66,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/271.png,2.5
+379,FC Groningen,Eredivisie,69,68,66,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1915.png,2.5
+380,Houston Dynamo,MLS,68,69,65,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/698.png,2.5
+381,Amiens SC,Ligue 2 BKT,68,67,65,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1816.png,2.5
+382,Shandong Luneng TaiShan FC,CSL,65,70,59,68,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111724.png,2.5
+383,Gallos Blancos de Querétaro,LIGA BBVA MX,65,68,71,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110150.png,2.5
+384,Fortuna Sittard,Eredivisie,67,68,70,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/634.png,2.5
+385,Waasland-Beveren,1A Pro League,67,67,70,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110913.png,2.5
+386,Sydney FC,A-League,67,67,69,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111400.png,2.5
+387,FC Emmen,Eredivisie,67,67,69,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100628.png,2.5
+388,FK Austria Wien,Ö. Bundesliga,68,66,69,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/256.png,2.5
+389,FC Sion,RSL,66,66,69,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110770.png,2.5
+390,VVV-Venlo,Eredivisie,66,66,69,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100651.png,2.5
+391,Al Wehda,MBS Pro League,65,69,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112408.png,2.5
+392,Arsenal de Sarandí,LPF,68,68,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110394.png,2.5
+393,The Strongest,Libertadores,66,68,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110969.png,2.5
+394,UD Logroñés,LaLiga SmartBank,66,68,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/476.png,2.5
+395,Club Atlético Central Córdoba,LPF,65,68,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112965.png,2.5
+396,FC Seoul,K League 1,63,68,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/982.png,2.5
+397,Club Bolívar,Libertadores,67,67,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110968.png,2.5
+398,Servette FC,RSL,67,67,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/324.png,2.5
+399,CD Lugo,LaLiga SmartBank,66,67,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110831.png,2.5
+400,Sparta Rotterdam,Eredivisie,66,67,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100646.png,2.5
+401,Hibernian,Scottish Prem,66,67,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/81.png,2.5
+402,FC Cartagena,LaLiga SmartBank,65,67,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100851.png,2.5
+403,Universitario de Deportes,Libertadores,66,66,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111014.png,2.5
+404,Hull City,EFL League One,66,66,68,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1952.png,2.5
+405,Godoy Cruz,LPF,67,68,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111706.png,2.5
+406,AC Ajaccio,Ligue 2 BKT,66,68,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/614.png,2.5
+407,PEC Zwolle,Eredivisie,67,67,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1914.png,2.5
+408,VfL Osnabrück,Bundesliga 2,67,67,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/487.png,2.5
+409,CS Emelec,Sudamericana,66,67,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110984.png,2.5
+410,Eintracht Braunschweig,Bundesliga 2,66,67,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110500.png,2.5
+411,SSV Jahn Regensburg,Bundesliga 2,66,67,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/543.png,2.5
+412,CD Mirandés,LaLiga SmartBank,68,66,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110069.png,2.5
+413,FC Sochaux-Montbéliard,Ligue 2 BKT,67,66,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/226.png,2.5
+414,Kashiwa Reysol,Meiji Yasuda J1,66,66,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101145.png,2.5
+415,Jagiellonia Białystok,PKO Ekstraklasa,65,66,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110745.png,2.5
+416,Shimizu S-Pulse,Meiji Yasuda J1,65,66,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101149.png,2.5
+417,AD Alcorcón,LaLiga SmartBank,67,65,67,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100831.png,2.5
+418,Grenoble Foot 38,Ligue 2 BKT,68,68,66,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1805.png,2.5
+419,Hammarby IF,Sweden Allsvenskan (1),67,68,66,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/708.png,2.5
+420,Club Atlético Aldosivi,LPF,69,67,66,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111707.png,2.5
+421,FC Lugano,RSL,66,67,66,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/10032.png,2.5
+422,Oceânico FC,Liga do Brasil,68,66,66,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/115199.png,2.5
+423,Djurgårdens IF,Sweden Allsvenskan (1),68,66,66,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/710.png,2.5
+424,AIK,Sweden Allsvenskan (1),68,68,65,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/433.png,2.5
+425,Suwon Samsung Bluewings,K League 1,67,68,65,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/983.png,2.5
+426,Wycombe Wanderers,EFL Championship,68,66,65,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1933.png,2.5
+427,Patronato,LPF,66,66,65,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110581.png,2.5
+428,Clermont Foot 63,Ligue 2 BKT,68,68,64,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1815.png,2.5
+429,Paris FC,Ligue 2 BKT,68,67,64,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111817.png,2.5
+430,FK Bodø/Glimt,Eliteserien,68,67,62,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/918.png,2.5
+431,Valenciennes FC,Ligue 2 BKT,66,67,62,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110456.png,2.5
+432,Denizlispor,Süper Lig,66,68,61,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1457.png,2.5
+433,Pogoń Szczecin,PKO Ekstraklasa,65,67,61,67,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110746.png,2.5
+434,Al Taawoun,MBS Pro League,65,67,73,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112393.png,2.0
+435,Henan Jianye FC,CSL,64,65,71,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111779.png,2.0
+436,Deportivo Cali,Sudamericana,67,64,71,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101102.png,2.0
+437,Wuhan Zall Professional FC,CSL,68,63,71,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112541.png,2.0
+438,Shenzhen Kaisa,CSL,63,65,70,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111773.png,2.0
+439,Deportivo La Guaira,Libertadores,64,66,69,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112853.png,2.0
+440,Al Raed,MBS Pro League,64,66,69,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112392.png,2.0
+441,Lechia Gdańsk,PKO Ekstraklasa,66,65,69,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111091.png,2.0
+442,Peterborough United,EFL League One,66,66,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1938.png,2.0
+443,Rodez Aveyron Football,Ligue 2 BKT,65,66,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111659.png,2.0
+444,Deportes Antofagasta,Sudamericana,64,66,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112533.png,2.0
+445,Chamois Niortais FC,Ligue 2 BKT,64,66,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1813.png,2.0
+446,FC Ingolstadt 04,3. Liga,66,65,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111239.png,2.0
+447,CE Sabadell FC,LaLiga SmartBank,66,65,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15021.png,2.0
+448,Sunderland,EFL League One,65,65,68,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/106.png,2.0
+449,IFK Norrköping,Sweden Allsvenskan (1),64,69,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/702.png,2.0
+450,Raków Częstochowa,PKO Ekstraklasa,66,67,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114326.png,2.0
+451,Havre AC,Ligue 2 BKT,66,67,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1738.png,2.0
+452,Al Faisaly,MBS Pro League,65,66,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112389.png,2.0
+453,Club Deportivo Jorge Wilstermann,Sudamericana,65,66,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110974.png,2.0
+454,TSV Prolactal Hartberg,Ö. Bundesliga,65,66,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/2017.png,2.0
+455,Odense Boldklub,3F Superliga,66,65,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/272.png,2.0
+456,Viking FK,Eliteserien,63,65,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/300.png,2.0
+457,Yokohama FC,Meiji Yasuda J1,64,63,67,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113197.png,2.0
+458,Ettifaq FC,MBS Pro League,63,68,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112096.png,2.0
+459,Albacete Balompié,LaLiga SmartBank,65,67,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1854.png,2.0
+460,Guaireña FC,Sudamericana,66,66,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114688.png,2.0
+461,Heracles Almelo,Eredivisie,65,66,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100634.png,2.0
+462,Portsmouth,EFL League One,65,66,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1790.png,2.0
+463,Hokkaido Consadole Sapporo,Meiji Yasuda J1,68,65,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112444.png,2.0
+464,Incheon United FC,K League 1,67,65,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110765.png,2.0
+465,SG Dynamo Dresden,3. Liga,67,65,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/503.png,2.0
+466,Cracovia,PKO Ekstraklasa,64,65,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110747.png,2.0
+467,Charlton Athletic,EFL League One,64,65,66,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/89.png,2.0
+468,FC Würzburger Kickers,Bundesliga 2,66,66,65,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110197.png,2.0
+469,RKC Waalwijk,Eredivisie,66,66,65,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1905.png,2.0
+470,ADO Den Haag,Eredivisie,65,66,65,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/650.png,2.0
+471,FC St. Gallen 1879,RSL,64,71,64,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/898.png,2.0
+472,Aalborg BK,3F Superliga,66,68,64,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/820.png,2.0
+473,Universidad Técnica de Cajamarca,Sudamericana,64,67,64,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114617.png,2.0
+474,BK Häcken,Sweden Allsvenskan (1),68,66,64,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/711.png,2.0
+475,Pohang Steelers,K League 1,67,65,64,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1474.png,2.0
+476,FC Viitorul Constanța,Liga I,66,66,63,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113180.png,2.0
+477,América de Cali,Libertadores,64,66,63,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101099.png,2.0
+478,Sangju Sangmu FC,K League 1,67,64,63,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/2055.png,2.0
+479,Wisła Kraków,PKO Ekstraklasa,65,64,63,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1873.png,2.0
+480,FC Zürich,RSL,64,67,60,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/894.png,2.0
+481,Aberdeen,Scottish Prem,64,67,60,66,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/77.png,2.0
+482,TSV 1860 München,3. Liga,66,65,68,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/33.png,2.0
+483,12 de Octubre FC,Sudamericana,64,65,68,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111007.png,2.0
+484,Melbourne City,A-League,65,64,68,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112224.png,2.0
+485,Al Fateh,MBS Pro League,64,65,67,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112390.png,2.0
+486,Daegu FC,K League 1,64,65,67,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/2056.png,2.0
+487,Western United FC,A-League,62,65,67,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114023.png,2.0
+488,Guabirá,Sudamericana,64,64,67,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114600.png,2.0
+489,FC Flyeralarm Admira,Ö. Bundesliga,65,63,67,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111821.png,2.0
+490,La Equidad,Sudamericana,63,66,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112523.png,2.0
+491,FC Lausanne-Sport,RSL,63,66,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1862.png,2.0
+492,Metropolitanos FC,Sudamericana,65,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112914.png,2.0
+493,Pau FC,Ligue 2 BKT,65,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110321.png,2.0
+494,WSG Swarovski Tirol,Ö. Bundesliga,65,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15040.png,2.0
+495,SV Guntamatic Ried,Ö. Bundesliga,65,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/780.png,2.0
+496,Ipswich Town,EFL League One,65,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/94.png,2.0
+497,Górnik Zabrze,PKO Ekstraklasa,64,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/420.png,2.0
+498,1. FC Kaiserslautern,3. Liga,64,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/29.png,2.0
+499,GwangJu FC,K League 1,63,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112258.png,2.0
+500,Perth Glory,A-League,63,65,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111399.png,2.0
+501,Vegalta Sendai,Meiji Yasuda J1,65,64,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112836.png,2.0
+502,spusu SKN St. Pölten,Ö. Bundesliga,65,64,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112075.png,2.0
+503,Shonan Bellmare,Meiji Yasuda J1,63,64,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113161.png,2.0
+504,CD Cobresal,Sudamericana,63,64,66,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110978.png,2.0
+505,SC Rheindorf Altach,Ö. Bundesliga,66,66,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15009.png,2.0
+506,Oxford United,EFL League One,65,66,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1951.png,2.0
+507,Abha Club,MBS Pro League,63,66,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113058.png,2.0
+508,AFC Astra Giurgiu,Liga I,66,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112847.png,2.0
+509,Piast Gliwice,PKO Ekstraklasa,66,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111086.png,2.0
+510,FC Hansa Rostock,3. Liga,66,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/27.png,2.0
+511,Carlos A. Mannucci,Sudamericana,65,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114619.png,2.0
+512,FBC Melgar,Sudamericana,65,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111334.png,2.0
+513,USL Dunkerque,Ligue 2 BKT,65,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111276.png,2.0
+514,SV Waldhof Mannheim 07,3. Liga,65,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110532.png,2.0
+515,AS Nancy Lorraine,Ligue 2 BKT,65,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1823.png,2.0
+516,SK Brann,Eliteserien,65,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/919.png,2.0
+517,Atlético Palmaflor,Sudamericana,64,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/115358.png,2.0
+518,Livingston FC,Scottish Prem,64,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/621.png,2.0
+519,Śląsk Wrocław,PKO Ekstraklasa,61,65,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111092.png,2.0
+520,Oita Trinita,Meiji Yasuda J1,65,64,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113183.png,2.0
+521,Blackpool,EFL League One,65,64,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1926.png,2.0
+522,SønderjyskE,3F Superliga,65,64,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1447.png,2.0
+523,Fleetwood Town,EFL League One,64,64,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112260.png,2.0
+524,Wellington Phoenix,A-League,63,64,65,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111766.png,2.0
+525,IF Elfsborg,Sweden Allsvenskan (1),65,67,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/700.png,2.0
+526,Sport Huancayo,Sudamericana,64,67,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114511.png,2.0
+527,Lincoln City,EFL League One,64,66,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/149.png,2.0
+528,Al Batin,MBS Pro League,63,66,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112990.png,2.0
+529,Doncaster Rovers,EFL League One,62,66,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/142.png,2.0
+530,Club Always Ready,Libertadores,66,65,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114577.png,2.0
+531,Viktoria Köln,3. Liga,64,65,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110645.png,2.0
+532,SV Wehen Wiesbaden,3. Liga,64,65,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/492.png,2.0
+533,Châteauroux,Ligue 2 BKT,64,65,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/212.png,2.0
+534,Motherwell,Scottish Prem,62,65,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/83.png,2.0
+535,Damac FC,MBS Pro League,64,64,64,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113217.png,2.0
+536,FC Dinamo 1948,Liga I,64,67,63,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100757.png,2.0
+537,St. Johnstone FC,Scottish Prem,65,65,63,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100804.png,2.0
+538,FC Nordsjælland,3F Superliga,63,65,63,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1788.png,2.0
+539,Club Nacional,Sudamericana,65,64,63,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112671.png,2.0
+540,Randers FC,3F Superliga,65,64,63,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1786.png,2.0
+541,Sagan Tosu,Meiji Yasuda J1,64,64,63,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113160.png,2.0
+542,Al Ain (KSA),MBS Pro League,64,67,62,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114143.png,2.0
+543,AFC Botoșani,Liga I,65,66,61,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110752.png,2.0
+544,Zagłębie Lubin,PKO Ekstraklasa,62,66,57,65,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110749.png,2.0
+545,Al Qadisiyah,MBS Pro League,64,65,67,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112391.png,1.5
+546,Gangwon FC,K League 1,65,63,67,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112115.png,1.5
+547,Hallescher FC,3. Liga,64,63,67,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110482.png,1.5
+548,Kilmarnock,Scottish Prem,63,65,66,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/82.png,1.5
+549,Adelaide United,A-League,65,64,66,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111393.png,1.5
+550,MSV Duisburg,3. Liga,63,64,66,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1825.png,1.5
+551,Club Atlético Nacional Potosí,Sudamericana,63,63,66,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112667.png,1.5
+552,Guayaquil City,Sudamericana,61,65,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113723.png,1.5
+553,FC Academica Clinceni,Liga I,64,64,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113391.png,1.5
+554,HJK Helsinki,Rest of World,64,64,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100325.png,1.5
+555,Dundee United,Scottish Prem,64,64,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/181.png,1.5
+556,Independiente Santa Fe,Libertadores,63,64,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/101104.png,1.5
+557,SpVgg Unterhaching,3. Liga,63,64,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/172.png,1.5
+558,Sportclub Verl,3. Liga,62,64,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110501.png,1.5
+559,Burton Albion,EFL League One,65,63,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15015.png,1.5
+560,Milton Keynes Dons,EFL League One,63,63,65,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1798.png,1.5
+561,Western Sydney Wanderers,A-League,60,67,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112427.png,1.5
+562,Shrewsbury,EFL League One,64,65,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/127.png,1.5
+563,Gaz Metan Mediaș,Liga I,63,65,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112637.png,1.5
+564,St. Mirren,Scottish Prem,63,65,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100805.png,1.5
+565,Crewe Alexandra,EFL League One,62,65,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/121.png,1.5
+566,AFC Chindia Târgoviște,Liga I,64,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113387.png,1.5
+567,FC Voluntari,Liga I,64,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113182.png,1.5
+568,Accrington Stanley,EFL League One,64,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110313.png,1.5
+569,Gillingham,EFL League One,64,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1802.png,1.5
+570,Plymouth Argyle,EFL League One,63,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1929.png,1.5
+571,Wigan Athletic,EFL League One,63,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1917.png,1.5
+572,Seongnam FC,K League 1,63,64,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/981.png,1.5
+573,Odds BK,Eliteserien,65,63,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1456.png,1.5
+574,Türkgücü München,3. Liga,63,63,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114398.png,1.5
+575,1. FC Saarbrücken,3. Liga,63,63,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/523.png,1.5
+576,Örebro SK,Sweden Allsvenskan (1),62,63,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/705.png,1.5
+577,Bristol Rovers,EFL League One,64,62,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1962.png,1.5
+578,Strømsgodset IF,Eliteserien,64,62,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/922.png,1.5
+579,Stabæk Fotball,Eliteserien,63,62,64,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/917.png,1.5
+580,Montevideo City Torque,Sudamericana,66,64,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113143.png,1.5
+581,Sepsi OSK Sf. Gheorghe,Liga I,64,64,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113378.png,1.5
+582,Wisła Płock,PKO Ekstraklasa,64,64,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1569.png,1.5
+583,Vålerenga Fotball,Eliteserien,64,64,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/920.png,1.5
+584,Deportivo Pasto,Sudamericana,64,63,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111723.png,1.5
+585,SV Meppen,3. Liga,64,63,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110597.png,1.5
+586,Lyngby BK,3F Superliga,64,62,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15001.png,1.5
+587,Club River Plate Asunción,Sudamericana,64,61,63,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114575.png,1.5
+588,KFC Uerdingen 05,3. Liga,65,64,62,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/167.png,1.5
+589,Kristiansund BK,Eliteserien,64,64,62,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113459.png,1.5
+590,Sarpsborg 08,Eliteserien,64,64,62,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112199.png,1.5
+591,FC Chambly Oise,Ligue 2 BKT,63,63,62,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112627.png,1.5
+592,Rentistas,Libertadores,62,63,61,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/115535.png,1.5
+593,Centro Atlético Fénix,Sudamericana,62,63,61,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111002.png,1.5
+594,Huachipato,Sudamericana,65,65,59,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111327.png,1.5
+595,Vejle Boldklub,3F Superliga,64,64,59,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/822.png,1.5
+596,Guangzhou R&F FC,CSL,61,66,57,64,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112429.png,1.5
+597,Dalian Professional Football Club,CSL,63,63,76,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112378.png,1.5
+598,FC Argeș Pitești,Liga I,63,63,66,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/100759.png,1.5
+599,Sociedad Deportiva Aucas,Sudamericana,63,60,66,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110987.png,1.5
+600,FC Bayern München II,3. Liga,61,64,65,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110679.png,1.5
+601,Deportivo Táchira,Libertadores,63,63,65,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110990.png,1.5
+602,Warta Poznań,PKO Ekstraklasa,62,63,65,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112511.png,1.5
+603,Club Social y Deportivo Macará,Sudamericana,63,63,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114578.png,1.5
+604,Sandefjord Fotball,Eliteserien,63,63,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1757.png,1.5
+605,Bolton Wanderers,EFL League Two,63,63,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/4.png,1.5
+606,Kalmar FF,Sweden Allsvenskan (1),62,63,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1439.png,1.5
+607,Dundalk,SSE Airtricity Lge,61,63,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/837.png,1.5
+608,AFC Wimbledon,EFL League One,63,62,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112259.png,1.5
+609,Podbeskidzie Bielsko-Biała,PKO Ekstraklasa,62,62,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111087.png,1.5
+610,Helsingborgs IF,Sweden Allsvenskan (1),59,62,64,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/432.png,1.5
+611,PGE FKS Stal Mielec,PKO Ekstraklasa,63,64,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114004.png,1.5
+612,Salford City,EFL League Two,64,63,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113926.png,1.5
+613,IK Sirius,Sweden Allsvenskan (1),62,63,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113458.png,1.5
+614,FC UTA Arad,Liga I,62,63,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110750.png,1.5
+615,FSV Zwickau,3. Liga,62,63,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110592.png,1.5
+616,Cangzhou Mighty Lions,CSL,61,62,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112985.png,1.5
+617,Macarthur FC,A-League,63,60,63,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114604.png,1.5
+618,AFC Hermannstadt,Liga I,63,64,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114147.png,1.5
+619,1. FC Magdeburg,3. Liga,63,64,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110588.png,1.5
+620,IK Start,Eliteserien,62,64,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1524.png,1.5
+621,Cheltenham Town,EFL League Two,64,63,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1936.png,1.5
+622,AC Horsens,3F Superliga,64,63,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1446.png,1.5
+623,Swindon Town,EFL League One,63,63,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1934.png,1.5
+624,Northampton Town,EFL League One,62,63,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1930.png,1.5
+625,Östersunds FK,Sweden Allsvenskan (1),63,62,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113173.png,1.5
+626,Shamrock Rovers,SSE Airtricity Lge,63,62,62,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/306.png,1.5
+627,Rochdale,EFL League One,63,63,61,63,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1955.png,1.5
+628,Melbourne Victory,A-League,61,61,67,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111397.png,1.0
+629,Busan IPark,K League 1,60,61,65,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1476.png,1.0
+630,FK Haugesund,Eliteserien,64,60,65,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1463.png,1.0
+631,Exeter City,EFL League Two,62,64,64,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/143.png,1.0
+632,Cambridge United,EFL League Two,62,63,64,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1944.png,1.0
+633,Morecambe,EFL League Two,61,63,64,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/357.png,1.0
+634,Aragua Fútbol Club,Sudamericana,61,61,64,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112916.png,1.0
+635,Leyton Orient,EFL League Two,61,61,64,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1958.png,1.0
+636,Tranmere Rovers,EFL League Two,62,63,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/15048.png,1.0
+637,VfB Lübeck,3. Liga,62,63,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1829.png,1.0
+638,Brisbane Roar,A-League,61,63,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111395.png,1.0
+639,Ross County FC,Scottish Prem,62,62,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/631.png,1.0
+640,Oldham Athletic,EFL League Two,61,62,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1920.png,1.0
+641,Aalesunds FK,Eliteserien,61,62,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1755.png,1.0
+642,Academia Puerto Cabello,Sudamericana,60,61,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/114611.png,1.0
+643,Stevenage,EFL League Two,62,60,63,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/361.png,1.0
+644,Jiangsu FC,CSL,61,64,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112162.png,1.0
+645,Varbergs BoIS FC,Sweden Allsvenskan (1),62,63,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/113743.png,1.0
+646,Port Vale,EFL League Two,62,63,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1928.png,1.0
+647,Carlisle United,EFL League Two,62,63,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1480.png,1.0
+648,Forest Green Rovers,EFL League Two,62,63,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/561.png,1.0
+649,Bradford City,EFL League Two,63,62,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1804.png,1.0
+650,Hamilton Academical FC,Scottish Prem,63,62,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/184.png,1.0
+651,Scunthorpe United,EFL League Two,61,62,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1949.png,1.0
+652,Crawley Town,EFL League Two,62,61,62,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110890.png,1.0
+653,Colchester United,EFL League Two,62,63,61,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1935.png,1.0
+654,Newport County,EFL League Two,63,63,60,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112254.png,1.0
+655,FC Vaduz,RSL,63,63,60,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/286.png,1.0
+656,Mansfield Town,EFL League Two,62,63,60,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1940.png,1.0
+657,Hebei China Fortune FC,CSL,62,62,60,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112978.png,1.0
+658,CSM Politehnica Iași,Liga I,62,62,59,62,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110815.png,1.0
+659,Central Coast Mariners,A-League,60,61,64,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111396.png,1.0
+660,Mjøndalen IF,Eliteserien,60,62,62,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112420.png,1.0
+661,Mjällby AIF,Sweden Allsvenskan (1),59,62,62,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112072.png,1.0
+662,Harrogate Town,EFL League Two,61,61,62,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112222.png,1.0
+663,Walsall,EFL League Two,62,61,61,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1803.png,1.0
+664,Barrow,EFL League Two,61,61,61,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/381.png,1.0
+665,Falkenbergs FF,Sweden Allsvenskan (1),61,60,61,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112169.png,1.0
+666,Southend United,EFL League Two,61,61,60,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/1954.png,1.0
+667,Newcastle Jets,A-League,63,60,60,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111398.png,1.0
+668,Grimsby Town,EFL League Two,59,59,60,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/92.png,1.0
+669,Cerro Largo,Sudamericana,63,61,56,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/115536.png,1.0
+670,Qingdao Huanghai FC,CSL,60,61,55,61,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112961.png,1.0
+671,Tianjin TEDA FC,CSL,61,56,61,60,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111774.png,1.0
+672,St. Patrick's Athletic,SSE Airtricity Lge,60,61,60,60,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/423.png,1.0
+673,Chongqing Dangdai Lifan FC SWM Team,CSL,54,60,60,60,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/112165.png,1.0
+674,Bohemian FC,SSE Airtricity Lge,60,59,59,60,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/305.png,1.0
+675,Mineros de Guayana,Sudamericana,59,59,57,59,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/110992.png,0.5
+676,Sligo Rovers,SSE Airtricity Lge,60,59,53,59,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/563.png,0.5
+677,Finn Harps,SSE Airtricity Lge,58,58,58,58,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111131.png,0.5
+678,Derry City,SSE Airtricity Lge,58,57,59,57,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/445.png,0.5
+679,Waterford FC,SSE Airtricity Lge,57,57,57,57,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/753.png,0.5
+680,Shelbourne FC,SSE Airtricity Lge,56,56,57,56,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/834.png,0.5
+681,Cork City,SSE Airtricity Lge,53,55,54,54,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/422.png,0.5
+682,Free Agents,Free Agents,0,0,0,0,https://fifastatic.fifaindex.com/FIFA21/images/crest/5/light/111592.png,0.5
