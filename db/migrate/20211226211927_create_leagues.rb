@@ -6,5 +6,11 @@ class CreateLeagues < ActiveRecord::Migration[7.0]
 
       t.timestamps
     end
+
+    add_reference :teams, :league,  foreign_key: true
+    remove_column :teams, :league, :string
+
   end
 end
+
+

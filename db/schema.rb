@@ -10,10 +10,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_12_26_211927) do
+ActiveRecord::Schema.define(version: 2021_12_26_230652) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "games", force: :cascade do |t|
+    t.bigint "home_player_id"
+    t.bigint "away_player_id"
+    t.bigint "home_team_id"
+    t.bigint "away_team_id"
+    t.integer "home_score"
+    t.integer "away_score"
+    t.datetime "played_at", precision: 6
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["away_player_id"], name: "index_games_on_away_player_id"
+    t.index ["away_team_id"], name: "index_games_on_away_team_id"
+    t.index ["home_player_id"], name: "index_games_on_home_player_id"
+    t.index ["home_team_id"], name: "index_games_on_home_team_id"
+  end
 
   create_table "leagues", force: :cascade do |t|
     t.string "name"
@@ -22,9 +38,22 @@ ActiveRecord::Schema.define(version: 2021_12_26_211927) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "rosters", force: :cascade do |t|
+    t.bigint "user_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["user_id"], name: "index_rosters_on_user_id"
+  end
+
+  create_table "rosters_teams", id: false, force: :cascade do |t|
+    t.bigint "roster_id"
+    t.bigint "team_id"
+    t.index ["roster_id"], name: "index_rosters_teams_on_roster_id"
+    t.index ["team_id"], name: "index_rosters_teams_on_team_id"
+  end
+
   create_table "teams", force: :cascade do |t|
     t.string "name"
-    t.string "league_id"
     t.integer "defense"
     t.integer "midfield"
     t.integer "attack"
@@ -33,6 +62,8 @@ ActiveRecord::Schema.define(version: 2021_12_26_211927) do
     t.float "rating"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.bigint "league_id"
+    t.index ["league_id"], name: "index_teams_on_league_id"
   end
 
   create_table "users", force: :cascade do |t|
@@ -47,4 +78,9 @@ ActiveRecord::Schema.define(version: 2021_12_26_211927) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "games", "teams", column: "away_team_id", on_delete: :cascade
+  add_foreign_key "games", "teams", column: "home_team_id", on_delete: :cascade
+  add_foreign_key "games", "users", column: "away_player_id", on_delete: :cascade
+  add_foreign_key "games", "users", column: "home_player_id", on_delete: :cascade
+  add_foreign_key "teams", "leagues"
 end

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  home_player_id: 1
+  away_player_id: 1
+  home_team_id: 1
+  away_team_id: 1
+  home_score: 1
+  away_score: 1
+  played_at: 2021-12-26 21:45:01
+
+two:
+  home_player_id: 1
+  away_player_id: 1
+  home_team_id: 1
+  away_team_id: 1
+  home_score: 1
+  away_score: 1
+  played_at: 2021-12-26 21:45:01

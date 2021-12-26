@@ -2,7 +2,7 @@ class CreateTeams < ActiveRecord::Migration[7.0]
   def change
     create_table :teams do |t|
       t.string :name
-      t.string :league_id
+      t.string :league
       t.integer :defense
       t.integer :midfield
       t.integer :attack
