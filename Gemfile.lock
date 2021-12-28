@@ -62,12 +62,20 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    appmap (0.70.1)
+      activesupport
+      method_source
+      rack
+      reverse_markdown
     awesome_print (1.9.2)
     bcrypt (3.1.16)
     bindex (0.8.1)
     bootsnap (1.9.3)
       msgpack (~> 1.0)
     builder (3.2.4)
+    bullet (7.0.0)
+      activesupport (>= 3.0.0)
+      uniform_notifier (~> 1.11)
     capybara (3.36.0)
       addressable
       matrix
@@ -166,6 +174,8 @@ GEM
     responders (3.0.1)
       actionpack (>= 5.0)
       railties (>= 5.0)
+    reverse_markdown (2.1.1)
+      nokogiri
     rexml (3.2.5)
     ruby-graphviz (1.2.5)
       rexml
@@ -192,6 +202,7 @@ GEM
       railties (>= 6.0.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    uniform_notifier (1.14.2)
     warden (1.2.9)
       rack (>= 2.0.9)
     web-console (4.2.0)
@@ -214,8 +225,10 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  appmap
   awesome_print (~> 1.9)
   bootsnap
+  bullet (~> 7.0)
   capybara
   debug
   devise (~> 4.8)

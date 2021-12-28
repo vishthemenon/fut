@@ -1,0 +1,14 @@
+<% content_for :page_title do %>
+    Tournaments
+<% end %>
+
+<%- @tournaments.each  do  |tournament| %>
+  <p>
+    <%= tournament.name %>
+  </p>
+<%  end %>
+
+<!-- Render the empty tournament partial if user has no tournaments  -->
+<%- if @tournaments.empty? %>
+  <%= render 'no_tournaments' %>
+<% end %>
