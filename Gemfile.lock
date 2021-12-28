@@ -170,6 +170,7 @@ GEM
     ruby-graphviz (1.2.5)
       rexml
     rubyzip (2.3.2)
+    rufo (0.13.0)
     selenium-webdriver (4.1.0)
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
@@ -225,6 +226,7 @@ DEPENDENCIES
   rails (~> 7.0.0)
   rails-erd (~> 1.6)
   redis (~> 4.0)
+  rufo (~> 0.13.0)
   selenium-webdriver
   sprockets-rails
   stimulus-rails
