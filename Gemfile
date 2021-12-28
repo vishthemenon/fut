@@ -77,3 +77,5 @@ end
 gem "devise", "~> 4.8"
 
 gem "awesome_print", "~> 1.9", :group => :development
+
+gem "rails-erd", "~> 1.6", :group => :development

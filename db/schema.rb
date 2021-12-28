@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_12_26_230652) do
+ActiveRecord::Schema.define(version: 2021_12_26_235859) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -52,6 +52,13 @@ ActiveRecord::Schema.define(version: 2021_12_26_230652) do
     t.index ["team_id"], name: "index_rosters_teams_on_team_id"
   end
 
+  create_table "rosters_tournaments", id: false, force: :cascade do |t|
+    t.bigint "tournament_id"
+    t.bigint "roster_id"
+    t.index ["roster_id"], name: "index_rosters_tournaments_on_roster_id"
+    t.index ["tournament_id"], name: "index_rosters_tournaments_on_tournament_id"
+  end
+
   create_table "teams", force: :cascade do |t|
     t.string "name"
     t.integer "defense"
@@ -64,6 +71,12 @@ ActiveRecord::Schema.define(version: 2021_12_26_230652) do
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "league_id"
     t.index ["league_id"], name: "index_teams_on_league_id"
+  end
+
+  create_table "tournaments", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "users", force: :cascade do |t|
