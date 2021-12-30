@@ -6,6 +6,10 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
 
-  has_many :rosters
+  has_many :rosters, dependent: :destroy
   has_and_belongs_to_many :tournaments
+
+  validates :name, presence: true
+  validates :email, presence: true, uniqueness: true
+
 end

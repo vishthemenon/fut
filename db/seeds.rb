@@ -13,7 +13,7 @@ CSV.foreach(Rails.root.join('db/team_data.csv'), headers: true) do |row|
                 attack: row[4],
                 overall: row[5],
                 logo: row[6],
-                rating: row[7],
+                rating: row[7]
               })
 end
 

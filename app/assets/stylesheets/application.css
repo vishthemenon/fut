@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+
+.letter-avatar:before {
+    content: attr(data-letters);
+    display: inline-block;
+    font-size: 1em;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 20%;
+    background: #BF125D;
+    vertical-align: middle;
+    color: white;
+    border: 1px solid white;
+}
+
+.letter-avatar:hover:before {
+    background: #751A3D;
+}

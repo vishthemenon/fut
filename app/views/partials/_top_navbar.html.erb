@@ -1,0 +1,31 @@
+<nav class="bg-indigo-600 border-b border-indigo-300 border-opacity-25 lg:border-none">
+  <div class="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
+    <div class="relative h-16 flex items-center justify-between lg:border-b lg:border-indigo-400 lg:border-opacity-25">
+      <div class="px-2 flex items-center lg:px-0">
+        <div class="flex-shrink-0">
+          <%= link_to image_tag("logo-white.png", class: "block h-8 w-auto", alt: "FUT Logo"), root_path %>
+        </div>
+        <div class="hidden lg:block lg:ml-10">
+          <div class="flex space-x-4">
+            <%= link_to  "Tournaments", tournaments_path, class: "bg-indigo-700 text-white rounded-md py-2 px-3 text-sm font-medium" %>
+          </div>
+        </div>
+      </div>
+
+      <div class="px-2 flex justify-end lg:px-0">
+        <div class="lg:block lg:ml-10">
+          <div class="flex space-x-4">
+            <%= link_to  "Sign Out", destroy_user_session_path, class: "bg-indigo-700 text-white rounded-md py-2 px-3 text-sm font-medium" %>
+          </div>
+        </div>
+
+        <div class="lg:block lg:ml-2">
+          <%= link_to edit_user_registration_path do %>
+            <span class="letter-avatar" data-letters=<%= current_user.name[0] %>></span>
+          <% end %>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</nav>

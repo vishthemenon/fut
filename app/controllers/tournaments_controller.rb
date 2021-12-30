@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class TournamentsController < ApplicationController
   before_action :authenticate_user!
 
@@ -7,5 +9,9 @@ class TournamentsController < ApplicationController
 
   def new
     @tournament = Tournament.new
+  end
+
+  def create
+    Rails.logger.debug @tournament
   end
 end

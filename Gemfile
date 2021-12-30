@@ -6,7 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.0.2'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem 'appmap', :groups => [:development, :test]
+gem 'appmap', groups: %i[development test]
 
 gem 'rails', '~> 7.0.0'
 
@@ -84,6 +84,6 @@ gem 'awesome_print', '~> 1.9', group: :development
 
 gem 'rails-erd', '~> 1.6', group: :development
 
-gem 'rufo', '~> 0.13.0', :group => :development
+gem 'rufo', '~> 0.13.0', group: :development
 
-gem "bullet", "~> 7.0", :group => :development
+gem 'bullet', '~> 7.0', group: :development
