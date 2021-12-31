@@ -7,7 +7,17 @@
         </div>
         <div class="hidden lg:block lg:ml-10">
           <div class="flex space-x-4">
-            <%= link_to  "Tournaments", tournaments_path, class: "bg-indigo-700 text-white rounded-md py-2 px-3 text-sm font-medium" %>
+            <%= link_to "Tournaments", tournaments_path, class: "bg-indigo-700 hover:bg-indigo-800 text-white rounded-md py-2 px-3 text-sm font-medium" %>
+          </div>
+        </div>
+        <div class="hidden lg:block lg:ml-2">
+          <div class="flex">
+
+            <%= link_to new_tournament_path, class: "relative inline-flex items-center px-3 py-2 text-sm font-medium rounded-md text-indigo-500 bg-white shadow-sm hover:bg-indigo-200" do %>
+              <svg class="-ml-1 -mr-1 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                <path fill-rule="evenodd" d="M10 5a1 1 0 011 1v3h3a1 1 0 110 2h-3v3a1 1 0 11-2 0v-3H6a1 1 0 110-2h3V6a1 1 0 011-1z" clip-rule="evenodd"/>
+              </svg>
+            <% end %>
           </div>
         </div>
       </div>
@@ -15,13 +25,13 @@
       <div class="px-2 flex justify-end lg:px-0">
         <div class="lg:block lg:ml-10">
           <div class="flex space-x-4">
-            <%= link_to  "Sign Out", destroy_user_session_path, class: "bg-indigo-700 text-white rounded-md py-2 px-3 text-sm font-medium" %>
+            <%= link_to "Sign Out", destroy_user_session_path, class: "bg-indigo-700 hover:bg-indigo-800 text-white rounded-md py-2 px-3 text-sm font-medium" %>
           </div>
         </div>
 
         <div class="lg:block lg:ml-2">
           <%= link_to edit_user_registration_path do %>
-            <span class="letter-avatar" data-letters=<%= current_user.name[0] %>></span>
+            <%= render 'partials/user_avatar', { user: current_user } %>
           <% end %>
         </div>
       </div>

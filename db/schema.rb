@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_12_28_210646) do
+ActiveRecord::Schema.define(version: 2021_12_30_221019) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -52,13 +52,6 @@ ActiveRecord::Schema.define(version: 2021_12_28_210646) do
     t.index ["team_id"], name: "index_rosters_teams_on_team_id"
   end
 
-  create_table "rosters_tournaments", id: false, force: :cascade do |t|
-    t.bigint "tournament_id"
-    t.bigint "roster_id"
-    t.index ["roster_id"], name: "index_rosters_tournaments_on_roster_id"
-    t.index ["tournament_id"], name: "index_rosters_tournaments_on_tournament_id"
-  end
-
   create_table "teams", force: :cascade do |t|
     t.string "name"
     t.integer "defense"
@@ -73,17 +66,24 @@ ActiveRecord::Schema.define(version: 2021_12_28_210646) do
     t.index ["league_id"], name: "index_teams_on_league_id"
   end
 
+  create_table "tournament_players", id: false, force: :cascade do |t|
+    t.bigint "tournament_id"
+    t.bigint "user_id"
+    t.index ["tournament_id"], name: "index_tournament_players_on_tournament_id"
+    t.index ["user_id"], name: "index_tournament_players_on_user_id"
+  end
+
+  create_table "tournament_rosters", id: false, force: :cascade do |t|
+    t.bigint "tournament_id"
+    t.bigint "roster_id"
+    t.index ["roster_id"], name: "index_tournament_rosters_on_roster_id"
+    t.index ["tournament_id"], name: "index_tournament_rosters_on_tournament_id"
+  end
+
   create_table "tournaments", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-  end
-
-  create_table "tournaments_users", id: false, force: :cascade do |t|
-    t.bigint "tournament_id"
-    t.bigint "user_id"
-    t.index ["tournament_id"], name: "index_tournaments_users_on_tournament_id"
-    t.index ["user_id"], name: "index_tournaments_users_on_user_id"
   end
 
   create_table "users", force: :cascade do |t|

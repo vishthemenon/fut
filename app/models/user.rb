@@ -7,9 +7,9 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   has_many :rosters, dependent: :destroy
-  has_and_belongs_to_many :tournaments
+  has_many :tournament_players, dependent: :destroy
+  has_many :tournaments, through: :tournament_players
 
   validates :name, presence: true
   validates :email, presence: true, uniqueness: true
-
 end

@@ -1,0 +1,7 @@
+<div id="<%= dom_id tournament_roster %>">
+  <% if action_name != "show" %>
+    <%= link_to "Show this tournament roster", tournament_roster, class: "rounded-lg py-3 px-5 bg-gray-100 inline-block font-medium" %>
+    <%= link_to 'Edit this tournament roster', edit_tournament_roster_path(tournament_roster), class: "rounded-lg py-3 ml-2 px-5 bg-gray-100 inline-block font-medium" %>
+    <hr class="mt-6">
+  <% end %>
+</div>
