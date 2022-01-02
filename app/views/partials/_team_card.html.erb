@@ -1,0 +1,17 @@
+<div class="relative bg-white py-4 px-4 shadow rounded-lg overflow-hidden">
+  <%= image_tag team.logo, class: "absolute bg-gray-100 rounded-md p-1 h-12 w-auto" %>
+  <div class="ml-16">
+    <p class="text-xs font-light text-gray-500">
+      <%= team.league.name %>
+    </p>
+    <p class="text-xl font-medium text-gray-900">
+      <%= team.name %>
+    </p>
+    <dl class="flex flex-row gap-1 mt-2">
+      <%= render 'partials/team_attribute', attribute_name: "OVR", attribute_value: team.overall %>
+      <%= render 'partials/team_attribute', attribute_name: "ATK", attribute_value: team.attack %>
+      <%= render 'partials/team_attribute', attribute_name: "MID", attribute_value: team.midfield %>
+      <%= render 'partials/team_attribute', attribute_name: "DEF", attribute_value: team.defense %>
+    </dl>
+  </div>
+</div>

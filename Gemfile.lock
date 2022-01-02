@@ -106,7 +106,7 @@ GEM
     importmap-rails (1.0.1)
       actionpack (>= 6.0.0)
       railties (>= 6.0.0)
-    io-console (0.5.9)
+    io-console (0.5.11)
     irb (1.4.1)
       reline (>= 0.3.0)
     jbuilder (2.11.5)
@@ -125,6 +125,8 @@ GEM
     msgpack (1.4.2)
     nio4r (2.5.8)
     nokogiri (1.12.5-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
     orm_adapter (0.5.0)
     pg (1.2.3)
@@ -169,7 +171,7 @@ GEM
     rake (13.0.6)
     redis (4.5.1)
     regexp_parser (2.2.0)
-    reline (0.3.0)
+    reline (0.3.1)
       io-console (~> 0.5)
     responders (3.0.1)
       actionpack (>= 5.0)
@@ -196,6 +198,8 @@ GEM
       railties (>= 6.0.0)
     tailwindcss-rails (2.0.2-x86_64-darwin)
       railties (>= 6.0.0)
+    tailwindcss-rails (2.0.2-x86_64-linux)
+      railties (>= 6.0.0)
     thor (1.1.0)
     turbo-rails (1.0.0)
       actionpack (>= 6.0.0)
@@ -219,10 +223,11 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.5.1)
+    zeitwerk (2.5.3)
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   appmap

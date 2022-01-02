@@ -8,6 +8,6 @@
   <script src="https://cdn.jsdelivr.net/npm/tom-select@2.0.0/dist/js/tom-select.complete.min.js" data-turbo-track="reload"></script>
 <% end %>
 
-<div class="flex flex-row overflow-x-auto">
+<div class="flex flex-row overflow-x-auto justify-center">
   <%= render partial: "roster_builder", collection: @tournament.rosters, as: :roster %>
 </div>
