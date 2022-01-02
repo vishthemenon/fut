@@ -1,4 +1,4 @@
-class RostersController < ApplicationController
+class RosterTeamsController < ApplicationController
   before_action :set_roster, only: [:new]
 
 
