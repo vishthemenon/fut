@@ -1,0 +1,13 @@
+<% content_for :page_title do %>
+  <%= "#{@tournament.name}: Create team rosters" %>
+<% end %>
+
+
+<% content_for :head do %>
+  <link href="https://cdn.jsdelivr.net/npm/tom-select@2.0.0/dist/css/tom-select.css" rel="stylesheet" data-turbo-track="reload">
+  <script src="https://cdn.jsdelivr.net/npm/tom-select@2.0.0/dist/js/tom-select.complete.min.js" data-turbo-track="reload"></script>
+<% end %>
+
+<div class="flex flex-row overflow-x-auto">
+  <%= render partial: "roster_builder", collection: @tournament.rosters, as: :roster %>
+</div>

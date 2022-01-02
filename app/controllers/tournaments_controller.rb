@@ -5,7 +5,7 @@ class TournamentsController < ApplicationController
   before_action :set_tournament, only: %i[show edit update destroy]
 
   def index
-    @tournaments = current_user.tournaments
+    @tournaments = current_user.tournaments.includes(:players)
   end
 
   def new
@@ -13,7 +13,7 @@ class TournamentsController < ApplicationController
   end
 
   def create
-    tournament_params =  get_tournament_params
+    tournament_params = get_tournament_params
     players = tournament_params[:players].filter_map { |name| User.find_by(name: name) }
     Rails.logger.warn players
     tournament_params[:players] = players
@@ -25,8 +25,9 @@ class TournamentsController < ApplicationController
 
     respond_to do |format|
       if @tournament.save
-        # format.html { redirect_to tournament_roster_url(@tournament_roster), notice: "Tournament roster was successfully created." }
-        format.html { redirect_to tournaments_path, notice: 'Tournament roster was successfully created.' }
+        format.html do
+          redirect_to new_tournament_roster_path(@tournament), notice: 'Tournament was successfully created.'
+        end
       else
         format.html { render :new, status: :unprocessable_entity }
       end

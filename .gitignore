@@ -34,3 +34,5 @@
 !/app/assets/builds/.keep
 .ipynb_checkpoints/
 .idea/
+
+erd.pdf

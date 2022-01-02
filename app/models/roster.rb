@@ -1,7 +1,11 @@
 # frozen_string_literal: true
 
 class Roster < ApplicationRecord
-  has_and_belongs_to_many :teams
-  has_and_belongs_to_many :tournaments
+  has_many :roster_teams, dependent: :destroy
+  has_many :teams, through: :roster_teams
+
+  has_many :tournament_rosters, dependent: :destroy
+  has_many :tournaments, through: :tournament_rosters
+
   belongs_to :user
 end

@@ -8,10 +8,7 @@ class CreateTournaments < ActiveRecord::Migration[7.0]
       t.timestamps
     end
 
-    create_table :rosters_tournaments, id: false do |t|
-      t.belongs_to :tournament
-      t.belongs_to :roster
-    end
+    add_reference :rosters, :tournament, index: true
 
     create_table :tournaments_users, id: false do |t|
       t.belongs_to :tournament

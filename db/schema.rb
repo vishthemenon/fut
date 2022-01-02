@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_12_30_221019) do
+ActiveRecord::Schema.define(version: 2022_01_02_033309) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -38,18 +38,20 @@ ActiveRecord::Schema.define(version: 2021_12_30_221019) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "roster_teams", id: false, force: :cascade do |t|
+    t.bigint "roster_id"
+    t.bigint "team_id"
+    t.index ["roster_id"], name: "index_roster_teams_on_roster_id"
+    t.index ["team_id"], name: "index_roster_teams_on_team_id"
+  end
+
   create_table "rosters", force: :cascade do |t|
     t.bigint "user_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.bigint "tournament_id"
+    t.index ["tournament_id"], name: "index_rosters_on_tournament_id"
     t.index ["user_id"], name: "index_rosters_on_user_id"
-  end
-
-  create_table "rosters_teams", id: false, force: :cascade do |t|
-    t.bigint "roster_id"
-    t.bigint "team_id"
-    t.index ["roster_id"], name: "index_rosters_teams_on_roster_id"
-    t.index ["team_id"], name: "index_rosters_teams_on_team_id"
   end
 
   create_table "teams", force: :cascade do |t|
@@ -71,13 +73,6 @@ ActiveRecord::Schema.define(version: 2021_12_30_221019) do
     t.bigint "user_id"
     t.index ["tournament_id"], name: "index_tournament_players_on_tournament_id"
     t.index ["user_id"], name: "index_tournament_players_on_user_id"
-  end
-
-  create_table "tournament_rosters", id: false, force: :cascade do |t|
-    t.bigint "tournament_id"
-    t.bigint "roster_id"
-    t.index ["roster_id"], name: "index_tournament_rosters_on_roster_id"
-    t.index ["tournament_id"], name: "index_tournament_rosters_on_tournament_id"
   end
 
   create_table "tournaments", force: :cascade do |t|
