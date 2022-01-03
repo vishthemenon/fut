@@ -3,9 +3,11 @@
 Rails.application.routes.draw do
   devise_for :users
   resources :tournaments do
-    resources :rosters, shallow: true do
-      resources :roster_teams, shallow: true
-    end
+    resources :rosters, only: [:index]
+  end
+
+  resources :rosters, only: [] do
+    resources :roster_teams, only: [:create, :destroy]
   end
 
   # Defines the root path route ("/")

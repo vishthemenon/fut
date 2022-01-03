@@ -14,19 +14,15 @@ class TournamentsController < ApplicationController
 
   def create
     tournament_params = get_tournament_params
-    players = tournament_params[:players].filter_map { |name| User.find_by(name: name) }
-    Rails.logger.warn players
-    tournament_params[:players] = players
-    Rails.logger.debug 'PARAMS'
-    Rails.logger.debug tournament_params
+    tournament_params[:players] = tournament_params[:players].filter_map { |name| User.find_by(name: name) }
     @tournament = Tournament.new(tournament_params)
 
-    Rails.logger.debug @tournament
+    @tournament.rosters = @tournament.players.map { |player| player.rosters.create }
 
     respond_to do |format|
       if @tournament.save
         format.html do
-          redirect_to new_tournament_roster_path(@tournament), notice: 'Tournament was successfully created.'
+          redirect_to tournament_rosters_path(@tournament), notice: 'Tournament was successfully created.'
         end
       else
         format.html { render :new, status: :unprocessable_entity }
