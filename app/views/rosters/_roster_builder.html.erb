@@ -34,7 +34,7 @@
       </div>
 
       <ul role="list" class="flex flex-col gap-2 px-4 py-4">
-        <%= render partial: "partials/team_card", collection: roster.teams, as: :team %>
+        <%= render partial: "partials/team_card", collection: roster.teams.includes([:league]), as: :team %>
       </ul>
     </div>
   </div>
