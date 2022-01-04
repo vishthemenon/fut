@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   devise_for :users
   resources :tournaments do
     resources :rosters, only: [:index]
+    resources :games, shallow: true
   end
 
   resources :rosters, only: [] do
