@@ -96,39 +96,27 @@
           </tr>
           </thead>
           <tbody class="bg-white divide-y divide-gray-200">
-          <% @tournament.games.includes(:away_team, :home_team).each do |game| %>
+          <% @tournament.games.includes(:away_team, :home_team).shuffle(random: Random.new(1)).each do |game| %>
             <tr>
-              <td class="px-6 py-4 whitespace-nowrap">
+              <td class="px-6 py-2 whitespace-nowrap">
                 <div class="flex items-center">
-                  <div class="flex-shrink-0 h-10 w-10">
-                    <%= image_tag game.home_team.logo, class: "absolute bg-gray-100 rounded-md p-1 h-12 w-auto" %>
-                  </div>
-                  <div class="ml-4">
-                    <div class="text-sm font-medium text-gray-900">
-                      <%= game.home_team.name %>
-                    </div>
-                  </div>
+                  <%= image_tag game.home_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto" %>
+                  <span class="ml-2 text-sm font-medium text-gray-900"><%= game.home_team.name %></span>
                 </div>
               </td>
-              <td class="px-6 py-4 whitespace-nowrap">
+              <td class="px-6 py-2 whitespace-nowrap">
                 <div class="flex items-center">
-                  <div class="flex-shrink-0 h-10 w-10">
-                    <%= image_tag game.away_team.logo, class: "absolute bg-gray-100 rounded-md p-1 h-12 w-auto" %>
-                  </div>
-                  <div class="ml-4">
-                    <div class="text-sm font-medium text-gray-900">
-                      <%= game.away_team.name %>
-                    </div>
-                  </div>
+                  <%= image_tag game.away_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto" %>
+                  <span class="ml-2 text-sm font-medium text-gray-900"><%= game.away_team.name %></span>
                 </div>
               </td>
-              <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+              <td class="px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
                 <%= game.score %>
               </td>
-              <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+              <td class="px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
                 <%= (winner = game.winner) ? winner.name : "-" %>
               </td>
-               <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+               <td class="px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
                 <%= link_to "Edit", edit_game_path(game) %>
               </td>
             </tr>
