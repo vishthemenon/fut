@@ -18,13 +18,13 @@
             <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
               Name
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+            <th scope="col" class="px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">
               Fixtures
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+            <th scope="col" class="px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">
               Games Played
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+            <th scope="col" class="px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">
               Points
             </th>
           </tr>
@@ -47,13 +47,13 @@
                   </div>
                 </div>
               </td>
-              <td class="px-6 py-4 whitespace-nowrap">
-                <div class="text-sm text-gray-900"><%= @tournament.games.played_by(player).count %></div>
+              <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+                <%= @tournament.games.played_by(player).count %>
               </td>
-              <td class="px-6 py-4 whitespace-nowrap">
-                <div class="text-sm text-gray-900"><%= @tournament.games.played_by(player).been_played.count %></div>
+              <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 text-center">
+                <%= @tournament.games.played_by(player).been_played.count %>
               </td>
-              <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+              <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 text-center text-sm text-gray-500">
                 <%= @tournament.points_for player %>
               </td>
             </tr>
