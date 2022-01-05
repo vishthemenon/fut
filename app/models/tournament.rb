@@ -2,10 +2,13 @@
 
 class Tournament < ApplicationRecord
   include TournamentPlayerStats
+  include TournamentTeamStats
   has_many :tournament_players, dependent: :destroy
   has_many :players, through: :tournament_players, source: :user
 
   has_many :rosters, dependent: :destroy
+  has_many :roster_teams, through: :rosters
+  has_many :teams, through: :roster_teams
 
   has_many :games, dependent: :destroy
 

@@ -8,6 +8,7 @@ class Game < ApplicationRecord
   belongs_to :tournament
 
   scope :played_by, ->(player) { where(home_player: player).or(where(away_player: player)) }
+  scope :played_with, ->(team) { where(home_team: team).or(where(away_team: team)) }
   scope :been_played, -> { where.not(home_score: nil).and(where.not(away_score: nil)) }
 
   # Ensure both score components are present or none
@@ -20,32 +21,36 @@ class Game < ApplicationRecord
 
   def winning_side
     return unless played?
+    return 'draw' if home_score == away_score
 
-    if home_score > away_score
-      'home'
-    elsif home_score < away_score
-      'away'
-    else
-      'draw'
-    end
+    home_score > away_score ? 'home' : 'away'
   end
 
-  def winner
+  def winning_player
     return if !played? || winning_side == 'draw'
     return home_player if winning_side == 'home'
 
     away_player
   end
+  alias winner winning_player
 
-  def played?
-    home_score? && away_score?
+  def winning_team
+    return if !played? || winning_side == 'draw'
+    return home_team if winning_side == 'home'
+
+    away_team
   end
 
-  def points_for(player)
+  def points_for(team_or_player)
     return 1 if winning_side == 'draw'
-    return 3 if winner == player
+    return 3 if winning_player == team_or_player
+    return 3 if winning_team == team_or_player
 
     0
+  end
+
+  def played?
+    !home_score.nil? && !away_score.nil?
   end
 
   def score

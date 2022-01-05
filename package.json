@@ -1,0 +1,11 @@
+{
+  "name": "fut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vishthemenon/fut.git",
+  "author": "Vishnu R Menon <vishthemenon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hotwired/stimulus": "^3.0.1"
+  }
+}
