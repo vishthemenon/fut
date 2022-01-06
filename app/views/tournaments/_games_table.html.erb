@@ -1,23 +1,23 @@
 <div class="flex flex-col">
   <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
     <div class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
-      <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
+      <div class="sm:shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
         <table class="min-w-full divide-y divide-gray-200">
           <thead class="bg-gray-50">
           <tr>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-              Home Team
+            <th scope="col" class="px-1 sm:px-6 py-3 text-center sm:text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+              Home
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-              Away Team
+            <th scope="col" class="px-1 sm:px-6 py-3 text-center sm:text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+              Away
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider text-center">
+            <th scope="col" class="px-1 sm:px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider text-center">
               Score
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider text-center">
+            <th scope="col" class="px-1 sm:px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider text-center">
               Winner
             </th>
-            <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider text-center">
+            <th scope="col" class="px-1 sm:px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider text-center">
               Actions
             </th>
           </tr>
@@ -25,22 +25,22 @@
           <tbody class="bg-white divide-y divide-gray-200">
           <% games.each do |game| %>
             <tr>
-              <td class="px-6 py-2 whitespace-nowrap">
-                <div class="flex items-center">
-                  <%= image_tag game.home_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto" %>
-                  <span class="ml-2 text-sm font-medium text-gray-900"><%= game.home_team.name %></span>
+              <td class="px-1 sm:px-6 py-2 whitespace-nowrap">
+                <div class="flex items-center justify-center sm:justify-start">
+                  <%= image_tag game.home_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto", alt: game.home_team.name %>
+                  <span class="ml-2 hidden sm:block text-sm font-medium text-gray-900"><%= game.home_team.name %></span>
                 </div>
               </td>
-              <td class="px-6 py-2 whitespace-nowrap">
-                <div class="flex items-center">
-                  <%= image_tag game.away_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto" %>
-                  <span class="ml-2 text-sm font-medium text-gray-900"><%= game.away_team.name %></span>
+              <td class="px-1 sm:px-6 py-2 whitespace-nowrap">
+                <div class="flex items-center justify-center sm:justify-start">
+                  <%= image_tag game.away_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto", alt: game.away_team.name %>
+                  <span class="ml-2 hidden sm:block text-sm font-medium text-gray-900"><%= game.away_team.name %></span>
                 </div>
               </td>
-              <td class="px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
+              <td class="px-1 sm:px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
                 <%= game.score %>
               </td>
-              <td class="px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
+              <td class="px-1 sm:px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
                 <%= (winner = game.winner) ? winner.name : "-" %>
               </td>
               <td class="px-6 py-2 whitespace-nowrap text-sm text-gray-900 text-center">
