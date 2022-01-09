@@ -20,19 +20,16 @@
                 <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                   Players
                 </th>
-                <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Status
-                </th>
                 <th scope="col" class="relative px-6 py-3">
                   <span class="sr-only">Actions</span>
                 </th>
               </tr>
             </thead>
-            <tbody class="bg-white divide-y divide-gray-200">
-              <% @tournaments.each  do  |tournament| %>
-                <tr>
-                  <td class="px-6 py-4 whitespace-nowrap">
-                    <div class="text-sm text-gray-900"><%= tournament.name %></div>
+            <tbody class="divide-y divide-gray-200">
+              <% @tournaments.each_with_index do  |tournament, index| %>
+                <tr class="hover:bg-gray-100  <%= index.odd? ? 'bg-gray-50':'bg-white' %>">
+                  <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                    <%=  link_to tournament.name, tournament_path(tournament)%>
                   </td>
                   <td class="px-6 py-4 whitespace-nowrap">
                     <div class="flex items-center">
@@ -44,11 +41,6 @@
                     </div>
                   </td>
 
-                  <td class="px-6 py-4 whitespace-nowrap">
-                    <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">
-                      Active
-                    </span>
-                  </td>
                   <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                     <%= link_to "Show", tournament_path(tournament), class: "text-indigo-600 hover:text-indigo-900" %>
                     <%=  link_to "Edit", edit_tournament_path(tournament), class: "text-indigo-600 hover:text-indigo-900" %>

@@ -22,9 +22,9 @@
             </th>
           </tr>
           </thead>
-          <tbody class="bg-white divide-y divide-gray-200">
+          <tbody class="divide-y divide-gray-200">
           <% games.each do |game| %>
-            <tr>
+            <tr class="<%= game.played? ? 'bg-indigo-50' : 'bg-white' %>">
               <td class="px-1 sm:px-6 py-2 whitespace-nowrap">
                 <div class="flex items-center justify-center sm:justify-start">
                   <%= image_tag game.home_team.logo, class: "bg-gray-100 rounded-md p-1 h-9 w-auto", alt: game.home_team.name %>
