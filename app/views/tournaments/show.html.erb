@@ -83,8 +83,12 @@
     </nav>
   </div>
   <div id="fixtures" data-tabs-target="panel"><%= render 'games_table', games: @tournament.games.includes(:away_team, :home_team).shuffle(random: Random.new(1)) %></div>
-  <div id="results" data-tabs-target="panel"><%= render 'games_table', games: @tournament.games.been_played.includes(:away_team, :home_team).shuffle(random: Random.new(1)) %></div>
-  <div id="table" data-tabs-target="panel"><%= render 'teams_table', tournament: @tournament %></div>
+  <div id="results" data-tabs-target="panel">
+
+    <%= render 'games_table', games: @tournament.games.been_played.includes(:away_team, :home_team).shuffle(random: Random.new(1)) %></div>
+  <div id="table" data-tabs-target="panel">
+    <%= render TournamentTableComponent.new tournament: @tournament %>
+  </div>
 </div>
 
 
