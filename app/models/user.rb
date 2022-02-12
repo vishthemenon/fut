@@ -13,7 +13,6 @@ class User < ApplicationRecord
   has_many :home_games, class_name: 'Game', foreign_key: :home_player_id, dependent: :destroy, inverse_of: :home_player
   has_many :away_games, class_name: 'Game', foreign_key: :home_player_id, dependent: :destroy, inverse_of: :away_player
 
-
   validates :name, presence: true
   validates :email, presence: true, uniqueness: true
 

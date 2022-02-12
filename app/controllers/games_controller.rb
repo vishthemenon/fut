@@ -9,7 +9,8 @@ class GamesController < ApplicationController
         format.html do
           redirect_to tournament_url(@game.tournament), notice: 'Game was successfully updated.'
         end
-      else format.html { render :edit, status: :unprocessable_entity }
+      else
+        format.html { render :edit, status: :unprocessable_entity }
       end
     end
   end

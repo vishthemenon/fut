@@ -1,5 +1,5 @@
 module TeamHelper
-  def attribute_color value
+  def attribute_color(value)
     case value
     when 1..50
       'red'
@@ -16,4 +16,3 @@ module TeamHelper
     end
   end
 end
-

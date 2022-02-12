@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
 class Tournament < ApplicationRecord
-  include TournamentPlayerStats
-  include TournamentTeamStats
+  include Relegatable
+  include TournamentPlayerAnalysable
+  include TournamentTeamAnalysable
   has_many :tournament_players, dependent: :destroy
   has_many :players, through: :tournament_players, source: :user
 
@@ -37,4 +38,3 @@ class Tournament < ApplicationRecord
     end
   end
 end
-

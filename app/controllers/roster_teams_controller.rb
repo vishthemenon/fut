@@ -1,7 +1,6 @@
 class RosterTeamsController < ApplicationController
   before_action :set_roster, only: [:new, :create]
 
-
   # GET /rosters/:roster_id/roster_teams/new
   def new
     @roster.roster_teams.new

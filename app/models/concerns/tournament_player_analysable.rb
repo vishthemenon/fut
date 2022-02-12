@@ -1,4 +1,4 @@
-module TournamentPlayerStats
+module TournamentPlayerAnalysable
   extend ActiveSupport::Concern
 
   def points_for(player)

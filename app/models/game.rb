@@ -17,8 +17,6 @@ class Game < ApplicationRecord
   validates :home_score, numericality: { only_integer: true, greater_than_or_equal_to: 0, allow_nil: true }
   validates :away_score, numericality: { only_integer: true, greater_than_or_equal_to: 0, allow_nil: true }
 
-
-
   def winning_side
     return unless played?
     return 'draw' if home_score == away_score
@@ -55,5 +53,19 @@ class Game < ApplicationRecord
 
   def score
     played? ? "#{home_score} - #{away_score}" : 'TBD'
+  end
+
+  def goals_for(team_or_player)
+    return home_score if (home_player == team_or_player) || (home_team == team_or_player)
+    return away_score if (away_score == team_or_player) || (away_team == team_or_player)
+
+    0
+  end
+
+  def goals_against(team_or_player)
+    return away_score if (home_player == team_or_player) || (home_team == team_or_player)
+    return home_score if (away_score == team_or_player) || (away_team == team_or_player)
+
+    0
   end
 end
