@@ -10,6 +10,7 @@ class Game < ApplicationRecord
   scope :played_by, ->(player) { where(home_player: player).or(where(away_player: player)) }
   scope :played_with, ->(team) { where(home_team: team).or(where(away_team: team)) }
   scope :been_played, -> { where.not(home_score: nil).and(where.not(away_score: nil)) }
+  scope :not_played, -> { where(home_score: nil).where(away_score: nil) }
 
   # Ensure both score components are present or none
   validates :home_score, presence: true, if: -> { away_score.present? }
